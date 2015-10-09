@@ -1,0 +1,2 @@
+In hw2-2A, the centroid of the rectangular frame is (7.5,12), and that of the solid rectangle is (5,14.5).
+In hw2-2B, the centroid of the rectangular frame is (9,7.5), and that of the solid rectangle is (6.5,5).
